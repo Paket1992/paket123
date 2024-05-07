@@ -12,7 +12,8 @@
   },
   "dependencies": {
     "paket228": "1.0.3",
-    "morvunka228": "1.0.0"
+    "morvunka228": "1.0.0",
+    "malesenka123": "1.0.3"
   },
   "author": "",
   "license": "ISC",
